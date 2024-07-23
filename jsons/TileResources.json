@@ -1,0 +1,114 @@
+[
+ {
+                "name": "-Unhappiness",
+                "resourceType": "Strategic",
+                "uniques": [
+                  "Stockpiled",
+                  "Cannot be traded",
+                  "Not shown on world screen"],
+ },
+ {
+                "name": "+Unhappiness",
+                "resourceType": "Strategic",
+                "uniques": [
+                  "Stockpiled",
+                  "Cannot be traded",
+                  "Not shown on world screen"],
+ },
+ {
+                "name": "-Culture Cost Border",
+                "resourceType": "Strategic",
+                "uniques": [
+                  "Stockpiled",
+                  "Cannot be traded",
+                  "Not shown on world screen"],
+ },
+ {
+                "name": "+Culture Cost Border",
+                "resourceType": "Strategic",
+                "uniques": [
+                  "Stockpiled",
+                  "Cannot be traded",
+                  "Not shown on world screen"],
+ },
+ {
+                "name": "+Food Carry",
+                "resourceType": "Strategic",
+                "uniques": [
+                  "Stockpiled",
+                  "Cannot be traded",
+                  "Not shown on world screen"],
+ },
+ {
+                "name": "-Food Carry",
+                "resourceType": "Strategic",
+                "uniques": [
+                  "Stockpiled",
+                  "Cannot be traded",
+                  "Not shown on world screen"],
+ },
+ {
+                "name": "-Maintenance",
+                "resourceType": "Strategic",
+                "uniques": [
+                  "Stockpiled",
+                  "Cannot be traded",
+                  "Not shown on world screen"],
+ },
+ {
+                "name": "+Maintenance",
+                "resourceType": "Strategic",
+                "uniques": [
+                  "Stockpiled",
+                  "Cannot be traded",
+                  "Not shown on world screen"],
+ },
+ {
+                "name": "+Unit Production",
+                "resourceType": "Strategic",
+                "uniques": [
+                  "Stockpiled",
+                  "Cannot be traded",
+                  "Not shown on world screen"],
+ },
+ {
+                "name": "-Unit Production",
+                "resourceType": "Strategic",
+                "uniques": [
+                  "Stockpiled",
+                  "Cannot be traded",
+                  "Not shown on world screen"],
+ },
+ {
+                "name": "+Buildings Production",
+                "resourceType": "Strategic",
+                "uniques": [
+                  "Stockpiled",
+                  "Cannot be traded",
+                  "Not shown on world screen"],
+ },
+ {
+                "name": "-Buildings Production",
+                "resourceType": "Strategic",
+                "uniques": [
+                  "Stockpiled",
+                  "Cannot be traded",
+                  "Not shown on world screen"],
+ },
+ {
+                "name": "+Wonders Production",
+                "resourceType": "Strategic",
+                "uniques": [
+                  "Stockpiled",
+                  "Cannot be traded",
+                  "Not shown on world screen"],
+ },
+ {
+                "name": "-Wonders Production",
+                "resourceType": "Strategic",
+                "uniques": [
+                  "Stockpiled",
+                  "Cannot be traded",
+                  "Not shown on world screen"],
+ },
+]

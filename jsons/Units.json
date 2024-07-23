@@ -1,0 +1,60 @@
+[
+ {
+		"name": "Stronger General",
+		"unitType": "Class S Great People",
+		"uniques": [
+            "Empire enters a [20]-turn Golden Age <by consuming this unit>",
+            "[+200]% Strength bonus for [Military] units within [3] tiles",
+			"Limited to [1] per Civilization",
+			"All adjacent units heal [+100] HP when healing", "[+100] HP when healing",
+			"Only available <for [Human player]>", 
+                        "Uncapturable"],
+		"movement": 5
+	         "cost": 0
+	         "hurryCostModifier": 0
+ },
+ {
+	  "name": "Normal Worker",
+	 "unitType": "Class S Civilian",
+	 "uniques": [
+		 "Can build [Land] improvements on tiles",
+		 "Can build [Water] improvements on tiles",
+		 "[-100]% construction time for [All] improvements",
+		 "Can instantly construct a [All] improvement <for [0] turns>",
+		 "Limited to [5] per Civilization",
+		 "Only available <for [Human player]>", 
+		 "Uncapturable"],
+	 "movement": 2
+	         "cost": 0
+	         "hurryCostModifier": 0
+ },
+ {
+	"name": "Invulnerable Trooper",
+	 "unitType": "Class S Trooper",
+	 "uniques": [
+		 "This Unit gains the [More Invulnerability] promotion",
+		 "Can be purchased for [0] [Gold] [in this city]",
+		 "Limited to [5] per Civilization",
+		 "Unbuildable",
+		 "Only available <for [Human player]>", 
+		 "All adjacent units heal [+100] HP when healing", "[+100] HP when healing",
+		 "[+750]% Strength bonus for [Military] units within [4] tiles",
+		 "Uncapturable"],
+	 "strength": 75
+	 "movement": 2
+	         "cost": 0
+	         "hurryCostModifier": 0
+ },
+ { 
+	 "name": "Normal Settler",
+	 "unitType": "Class S Civilian",
+	 "uniques": [
+		 "Founds a new city",
+		 "Uncapturable",
+		 "Limited to [1] per Civilization",
+		 "Only available <for [Human player]>"],
+	 "movement": 2
+	 "cost": 0
+	 "hurryCostModifier": 0
+ }
+]

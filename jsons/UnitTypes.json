@@ -1,0 +1,14 @@
+[
+ {
+        "name": "Class S Great People",
+        "movementType": "Land"
+ },
+ {
+        "name": "Class S Trooper",
+        "movementType": "Land"
+ },
+ {
+        "name": "Class S Civilian"
+        "movementType": "Land"
+ }
+]
