@@ -11,7 +11,7 @@
                 "name": "+Unhappiness",
                 "resourceType": "Strategic",
                 "uniques": [
-                  "Stockpiled",{
+                  "Stockpiled",
                   "Cannot be traded",
                   "Not shown on world screen"],
  },
