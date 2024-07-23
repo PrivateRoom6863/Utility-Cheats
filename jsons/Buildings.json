@@ -275,34 +275,6 @@
 		    "[-10]% Production when constructing [All] units [in all cities] <for [9999] turns> <hidden from users>"]
 	},
 	{
-	   "name": "0 to -100% Unit Cost Production",
-	   "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-		   "Can be continually purchased <hidden from users> ",
-		          "Instantly provides [1] [-Unit Cost Production] <hidden from users>", 
-		   "Instantly consumes [1] [+Unit Cost Production] <hidden from users>",
-		    "Unavailable <when above [9] [-Unit Cost Production]> <hidden from users>",
-		    "Remove [0 to -100% Unit Cost Production] [in this city] <hidden from users> ",
-		    "Destroyed when the city is captured <hidden from users>",
-		    "Only available <for [Human player]> <hidden from users>",
-		    "Unbuildable <hidden from users>",
-		    "Limited to [1] per Civilization <hidden from users>",
-		    "[-10]% production cost <for [All] units> <for [9999] turns> <hidden from users>"]
-	},
-	{
-	   "name": "-100 to 0% Unit Cost Production",
-	   "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-		   "Can be continually purchased <hidden from users> ",
-		          "Instantly provides [1] [+Unit Cost Production] <hidden from users>", 
-		   "Instantly consumes [1] [-Unit Cost Production] <hidden from users>",
-		    "Unavailable <when above [-1] [+Unit Cost Production]> <hidden from users>",
-		    "Remove [-100 to 0% Unit Cost Production] [in this city] <hidden from users> ",
-		    "Destroyed when the city is captured <hidden from users>",
-		    "Only available <for [Human player]> <hidden from users>",
-		    "Unbuildable <hidden from users>",
-		    "Limited to [1] per Civilization <hidden from users>",
-		    "[+10]% production cost <for [All] units> <for [9999] turns> <hidden from users>"]
-	},
-	{
 	   "name": "0 to 100% Buildings Production",
 	   "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
