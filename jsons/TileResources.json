@@ -16,7 +16,7 @@
                   "Not shown on world screen"],
  },
  {
-                "name": "-Production Cost",
+                "name": "-Unit Cost Production",
                 "resourceType": "Strategic",
                 "uniques": [
                   "Stockpiled",
@@ -24,7 +24,7 @@
                   "Not shown on world screen"],
  },
  {
-                "name": "+Production Cost",
+                "name": "+Unit Cost Production",
                 "resourceType": "Strategic",
                 "uniques": [
                   "Stockpiled",
