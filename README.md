@@ -1,4 +1,5 @@
 # features
+- Players Are now Biased
 - Now Units are Invulnerable to cities and units when Defending 
 - Compatible with other mods like Alpha Frontier, Deciv Redux and Fantasia
 - 999999 strength for Cities when defending
