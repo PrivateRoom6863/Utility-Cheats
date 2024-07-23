@@ -16,22 +16,6 @@
                   "Not shown on world screen"],
  },
  {
-                "name": "-Unit Cost Production",
-                "resourceType": "Strategic",
-                "uniques": [
-                  "Stockpiled",
-                  "Cannot be traded",
-                  "Not shown on world screen"],
- },
- {
-                "name": "+Unit Cost Production",
-                "resourceType": "Strategic",
-                "uniques": [
-                  "Stockpiled",
-                  "Cannot be traded",
-                  "Not shown on world screen"],
- },
- {
                 "name": "-Culture Cost Border",
                 "resourceType": "Strategic",
                 "uniques": [
