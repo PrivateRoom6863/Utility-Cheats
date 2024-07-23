@@ -11,6 +11,22 @@
                 "name": "+Unhappiness",
                 "resourceType": "Strategic",
                 "uniques": [
+                  "Stockpiled",{
+                  "Cannot be traded",
+                  "Not shown on world screen"],
+ },
+ {
+                "name": "-Production Cost",
+                "resourceType": "Strategic",
+                "uniques": [
+                  "Stockpiled",
+                  "Cannot be traded",
+                  "Not shown on world screen"],
+ },
+ {
+                "name": "+Production Cost",
+                "resourceType": "Strategic",
+                "uniques": [
                   "Stockpiled",
                   "Cannot be traded",
                   "Not shown on world screen"],
