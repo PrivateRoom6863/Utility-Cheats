@@ -17,11 +17,11 @@
 	  "name": "Normal Worker",
 	 "unitType": "Class S Civilian",
 	 "uniques": [
+	         "Can be purchased for [0] [Gold] [in this city]",
+		 "Unbuildable",
 		 "Can build [Land] improvements on tiles",
 		 "Can build [Water] improvements on tiles",
 		 "[-100]% construction time for [All] improvements",
-		 "Can instantly construct a [All] improvement <for [0] turns>",
-		 "Limited to [5] per Civilization",
 		 "Only available <for [Human player]>", 
 		 "Uncapturable"],
 	 "movement": 2
@@ -50,8 +50,9 @@
 	 "unitType": "Class S Civilian",
 	 "uniques": [
 		 "Founds a new city",
+		 "Can be purchased for [0] [Gold] [in this city]",
+		 "Unbuildable",
 		 "Uncapturable",
-		 "Limited to [1] per Civilization",
 		 "Only available <for [Human player]>"],
 	 "movement": 2
 	 "cost": 0
