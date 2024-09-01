@@ -16,6 +16,22 @@
                   "Not shown on world screen"],
  },
  {
+                "name": "+stats1",
+                "resourceType": "Strategic",
+                "uniques": [
+                 "Stockpiled",
+                 "Cannot be traded",
+                 "Not shown on world screen"],
+ },
+ {
+                "name": "-stats1",
+                "resourceType": "Strategic",
+                "uniques": [
+                 "Stockpiled",
+                 "Cannot be traded",
+                 "Not shown on world screen"],
+ },
+ {
                 "name": "-Culture Cost Border",
                 "resourceType": "Strategic",
                 "uniques": [
