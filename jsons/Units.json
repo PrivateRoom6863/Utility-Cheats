@@ -32,7 +32,7 @@
 	"name": "Invulnerable Trooper",
 	 "unitType": "Class S Trooper",
 	 "uniques": [
-		 "This Unit gains the [More Invulnerability] promotion",
+		 "[Invulnerable Trooper] units gain the [More Invulnerability] promotion",
 		 "Can be purchased for [0] [Gold] [in this city]",
 		 "Limited to [5] per Civilization",
 		 "Unbuildable",
