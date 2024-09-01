@@ -23,12 +23,32 @@
 	{
 	   "name": "+5 stats",
 	   "uniques": [ "Comment [+5 every stats except faith in your cities]",
-		   "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
+		    "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
+		   "Can be continually purchased <hidden from users> ",
+	           "Instantly provides [1] [+stats1] <hidden from users>", 
+		   "Instantly consumes [1] [-stats1] <hidden from users>",
+		    "Unavailable <when above [9] [+stats1]> <hidden from users>",
+		    "Remove [+5 stats] [in this city] <hidden from users> ",
 		    "Only available <for [Human player]> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
-		    "[+5 Gold, +5 Production, +5 Food, +5 Culture, +5 Science] [in all cities] <hidden from users>"]
+		    "[+5 Gold, +5 Production, +5 Food, +5 Culture, +5 Science] [in all cities] <for [9999] turns> <hidden from users>"]
+	},
+	{
+	   "name": "-5 stats",
+	   "uniques": [ "Comment [-5 every stats except faith in your cities]",
+		    "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
+		    "Destroyed when the city is captured <hidden from users>",
+		   "Can be continually purchased <hidden from users> ",
+	           "Instantly provides [1] [-stats1] <hidden from users>", 
+		   "Instantly consumes [1] [+stats1] <hidden from users>",
+		    "Unavailable <when above [-1] [+stats1]> <hidden from users>",
+		    "Remove [+5 stats] [in this city] <hidden from users> ",
+		    "Only available <for [Human player]> <hidden from users>",
+		    "Unbuildable <hidden from users>",
+		    "Limited to [1] per Civilization <hidden from users>",
+		    "[-5 Gold, -5 Production, -5 Food, -5 Culture, -5 Science] [in all cities] <for [9999] turns> <hidden from users>"]
 	},
 	{
 	   "name": "+5 faith",
