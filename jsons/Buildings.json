@@ -43,7 +43,7 @@
 		   "Can be continually purchased <hidden from users> ",
 	           "Instantly provides [1] [-stats1] <hidden from users>", 
 		   "Instantly consumes [1] [+stats1] <hidden from users>",
-		    "Unavailable <when above [-1] [+stats1]> <hidden from users>",
+		    "Unavailable <when above [-1] [-stats1]> <hidden from users>",
 		    "Remove [-5 stats] [in this city] <hidden from users> ",
 		    "Only available <for [Human player]> <hidden from users>",
 		    "Unbuildable <hidden from users>",
