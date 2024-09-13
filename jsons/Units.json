@@ -33,6 +33,7 @@
 	 "unitType": "Class S Trooper",
 	 "uniques": [
 		 "Can be purchased for [0] [Gold] [in this city]",
+		 "[Invulnerable Trooper] units gain the [Slavery-888] promotion",
 		 "Unbuildable",
 		 "Only available <for [Human player]>"],
 	 "strength": 75
