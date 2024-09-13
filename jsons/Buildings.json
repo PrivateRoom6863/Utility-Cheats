@@ -167,7 +167,7 @@
 		    "Destroyed when the city is captured <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Only available <for [Human player]> <hidden from users>",
-		    "[Military] units gain the [Omnipotence] promotion" ]
+		    "[Military] units gain the [Omnipotence] promotion <if [Immortal Units] is constructed>" ]
 	},
 	{
 	   "name": "Invulnerable Units",
@@ -176,7 +176,7 @@
 		    "Destroyed when the city is captured <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Only available <for [Human player]> <hidden from users>",
-		    "[Military] units gain the [More Invulnerability] promotion" ]
+		    "[Military] units gain the [More Invulnerability] promotion <if [Invulnerable Units] is constructed>" ]
 	},
 	{
 	   "name": "Indestructible Cities",
