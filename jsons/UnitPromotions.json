@@ -2,11 +2,53 @@
 
    { 
      "name": "Omnipotence",
-     "uniques": ["All adjacent units heal [+99] HP when healing", "[+85]% XP gained from combat", "Ranged attacks may be performed over obstacles", "Can see invisible [All] units", "No damage penalty for wounded units", "[+99999999]% Strength <when defending>", "Uncapturable", "[10] additional attacks per turn", "Can move after attacking", "Heals [99] damage if it kills a unit", "[+1] Range", "[+99] HP when healing", "Ignores terrain cost", "Unit will heal every turn, even if it performs an action"]
+     "uniques": ["All adjacent units heal [+99] HP when healing",
+        "[+85]% XP gained from combat", 
+        "Ranged attacks may be performed over obstacles",
+        "Can see invisible [All] units", 
+        "No damage penalty for wounded units", 
+        "[+99999999]% Strength <when defending>", 
+        "Uncapturable", 
+        "[10] additional attacks per turn", 
+        "Can move after attacking", 
+        "Heals [99] damage if it kills a unit",
+        "[+1] Range",
+        "[+99] HP when healing", 
+        "Ignores terrain cost",
+        "Unit will heal every turn, even if it performs an action"]
    },
    {
      "name": "More Invulnerability",
-     "uniques": ["All adjacent units heal [+99] HP when healing", "[+85]% XP gained from combat", "Ranged attacks may be performed over obstacles", "Can see invisible [All] units", "No damage penalty for wounded units", "Uncapturable", "[+115]% Strength <when attacking>", "[+100]% Strength <when defending>", "Can move after attacking", "Heals [99] damage if it kills a unit", "[+1] Range", "[+99] HP when healing", "Ignores terrain cost", "Unit will heal every turn, even if it performs an action"]
+     "uniques": ["All adjacent units heal [+99] HP when healing",
+        "[+85]% XP gained from combat",
+        "Ranged attacks may be performed over obstacles", 
+        "Can see invisible [All] units", 
+        "No damage penalty for wounded units",
+        "Uncapturable",
+        "[+115]% Strength <when attacking>", 
+        "[+100]% Strength <when defending>", 
+        "Can move after attacking",
+        "Heals [99] damage if it kills a unit", 
+        "[+1] Range", "[+99] HP when healing", 
+        "Ignores terrain cost",
+        "Unit will heal every turn, even if it performs an action"]
+   },
+   {
+      "name": "Slavery-888",
+      "uniques": ["May attack when embarked",
+		 "May capture killed [All] units",
+		 "Ranged attacks may be performed over obstacles",
+		 "May enter foreign tiles without open borders",
+		 "[999999999]% Strength",
+		 "Unable to pillage tiles",
+		 "[10] additional attacks per turn",
+		 "Can see invisible [All] units",
+		 "Invisible to others",
+		 "Can move after attacking",
+		 "Unable to capture cities",
+		 "All adjacent units heal [+100] HP when healing", 
+       "[+100] HP when healing",
+		 "Uncapturable"]
    }
 
 ]
