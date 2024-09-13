@@ -36,7 +36,7 @@
 		 "[Invulnerable Trooper] units gain the [Slavery-888] promotion",
 		 "Unbuildable",
 		 "Only available <for [Human player]>"],
-	 "strength": 75
+	 "strength": 4
 	 "movement": 10
 	         "cost": 0
 	         "hurryCostModifier": 0
