@@ -161,6 +161,15 @@
 		    "[+9999999]% Golden Age length <hidden from users>"]
 	},
 	{
+	   "name": "Production Cost",
+	   "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users> ",
+		    "Destroyed when the city is captured <hidden from users>",
+		    "Only available <for [Human player]> <hidden from users>",
+		    "Unbuildable <hidden from users>",
+		    "Limited to [1] per Civilization <hidden from users>",
+		    "[-100]% production cost <for [All] units>"]
+	},
+	{
 	   "name": "Immortal Units",
 	   "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
