@@ -167,7 +167,8 @@
 		    "Only available <for [Human player]> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
-		    "[-100]% production cost <for [All] units>"]
+		   "[Production] cost of purchasing [All] buildings [-25]%",
+		    "[Production] cost of purchasing [All] units [-90]%"]
 	},
 	{
 	   "name": "Immortal Units",
