@@ -153,6 +153,15 @@
 		    "[+9999999]% Golden Age length <hidden from users>"]
 	},
 	{
+	   "name": "Slavery-888",
+	   "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
+		    "Limited to [1] per Civilization <hidden from users>",
+		    "Destroyed when the city is captured <hidden from users>",
+		    "Unbuildable <hidden from users>",
+		    "Only available <for [Human player]> <hidden from users>",
+		    "[Military] units gain the [Slavery-888] promotion <if [Slavery-888] is constructed>" ]
+	},
+	{
 	   "name": "Immortal Units",
 	   "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
