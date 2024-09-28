@@ -37,23 +37,8 @@
    },
    {
       "name": "Slavery-888",
-      "uniques": ["May attack when embarked",
+      "uniques": [
 		 "May capture killed [All] units <with [999]% chance>",
-		 "Ranged attacks may be performed over obstacles",
-		 "May enter foreign tiles without open borders",
-		 "[999999999]% Strength",
-	         "[-10] Movement point cost to disembark",
-	         "May travel on Water tiles without embarking",
-	         "[-10] Movement point cost to embark",
-		 "Unable to pillage tiles",
-		 "[25] additional attacks per turn",
-		 "Can see invisible [All] units",
-		 "Invisible to others",
-		 "Can move after attacking",
-		 "Unable to capture cities",
-	         "Ignores terrain cost",
-		 "All adjacent units heal [+100] HP when healing", 
-       "[+100] HP when healing",
 		 "Uncapturable"]
    }
 
