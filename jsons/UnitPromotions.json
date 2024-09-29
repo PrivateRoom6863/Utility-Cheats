@@ -29,7 +29,6 @@
         "[+115]% Strength <when attacking>", 
         "[+100]% Strength <when defending>", 
         "Can move after attacking",
-	     "May capture killed [All] units <with [999]% chance>",
         "Heals [99] damage if it kills a unit", 
         "[+1] Range", "[+99] HP when healing", 
         "Ignores terrain cost",
