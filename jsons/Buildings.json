@@ -270,13 +270,13 @@
 	   "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		          "Instantly provides [1] [+Unit Production] <hidden from users>", 
 		   "Instantly consumes [1] [-Unit Production] <hidden from users>",
-		    "Unavailable <when above [199] [+Unit Production]> <hidden from users>",
+		    "Unavailable <when above [99] [+Unit Production]> <hidden from users>",
 		    "Remove [0 to 10000% Unit Production] [in this city] <hidden from users> ",
 		    "Destroyed when the city is captured <hidden from users>",
 		    "Only available <for [Human player]> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
-		    "[+50]% Production when constructing [All] units [in all cities] <for [999999] turns> <hidden from users>"]
+		    "[+100]% Production when constructing [All] units [in all cities] <for [999999] turns> <hidden from users>"]
 	},
 	{
 	   "name": "10000 to 0% Unit Production",
@@ -289,7 +289,7 @@
 		    "Only available <for [Human player]> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
-		    "[-50]% Production when constructing [All] units [in all cities] <for [999999] turns> <hidden from users>"]
+		    "[-100]% Production when constructing [All] units [in all cities] <for [999999] turns> <hidden from users>"]
 	},
 	{
 	   "name": "0 to 10000% Buildings Production",
@@ -297,12 +297,12 @@
 		    "Destroyed when the city is captured <hidden from users>",
 		          "Instantly provides [1] [+Buildings Production] <hidden from users>", 
 		   "Instantly consumes [1] [-Buildings Production] <hidden from users>",
-		    "Unavailable <when above [199] [+Buildings Production]> <hidden from users>",
+		    "Unavailable <when above [99] [+Buildings Production]> <hidden from users>",
 		   "Remove [0 to 10000% Buildings Production] [in this city] <hidden from users> ",
 		    "Only available <for [Human player]> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
-		    "[+50]% Production when constructing [All] buildings [in all cities] <for [999999] turns> <hidden from users>"]
+		    "[+100]% Production when constructing [All] buildings [in all cities] <for [999999] turns> <hidden from users>"]
 	},
 	{
 	   "name": "10000 to 0% Buildings Production",
@@ -315,7 +315,7 @@
 		    "Only available <for [Human player]> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
-		    "[-50]% Production when constructing [All] buildings [in all cities] <for [999999] turns> <hidden from users>"]
+		    "[-100]% Production when constructing [All] buildings [in all cities] <for [999999] turns> <hidden from users>"]
 	},
 	{
 	   "name": "0 to 10000% Wonders Production",
@@ -323,12 +323,12 @@
 		    "Destroyed when the city is captured <hidden from users>",
 		          "Instantly provides [1] [+Wonders Production] <hidden from users>", 
 		   "Instantly consumes [1] [-Wonders Production] <hidden from users>",
-		    "Unavailable <when above [199] [+Wonders Production]> <hidden from users>",
+		    "Unavailable <when above [99] [+Wonders Production]> <hidden from users>",
 		   "Remove [0 to 10000% Wonders Production] [in this city] <hidden from users> ",
 		    "Only available <for [Human player]> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
-		    "[+50]% Production when constructing [All] wonders [in all cities] <for [999999] turns> <hidden from users>"]
+		    "[+100]% Production when constructing [All] wonders [in all cities] <for [999999] turns> <hidden from users>"]
 	},
 	{
 	   "name": "10000 to 0% Wonders Production",
@@ -341,7 +341,7 @@
 		    "Only available <for [Human player]> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
-		    "[-50]% Production when constructing [All] wonders [in all cities] <for [999999] turns> <hidden from users>"]
+		    "[-100]% Production when constructing [All] wonders [in all cities] <for [999999] turns> <hidden from users>"]
 	},
 	{
 	   "name": "Unit Rewards Bonus except Faith",
