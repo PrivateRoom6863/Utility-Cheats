@@ -4,7 +4,7 @@
 		"name": "1ReadMe"
 		"uniques": [ "Comment [All of these buildings are Unbuildable for AIs so no need to worry + destroyed if city is captured]",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Only available <for [Human player]> <hidden from users>",
+			"Only available <for [Human player] Civilizations> <hidden from users>",
 			"Destroyed when the city is captured <hidden from users>",
 			"Unbuildable <hidden from users>"]
 	},
@@ -13,7 +13,7 @@
 	   "uniques": [ "Comment [You Gain 2 units in total]",
 		   "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
-		    "Only available <for [Human player]> <hidden from users>",
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		   "Remove [Starter Pack] [in this city] <hidden from users> ",
 		    "Limited to [1] per Civilization <hidden from users>",
@@ -29,7 +29,7 @@
 		   "Instantly consumes [1] [-stats1] <hidden from users>",
 		    "Unavailable <when above [9] [+stats1]> <hidden from users>",
 		    "Remove [+5 stats] [in this city] <hidden from users> ",
-		    "Only available <for [Human player]> <hidden from users>",
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
 		    "[+5 Gold, +5 Production, +5 Food, +5 Culture, +5 Science] [in all cities] <for [999999] turns> <hidden from users>"]
@@ -43,7 +43,7 @@
 		   "Instantly consumes [1] [+stats1] <hidden from users>",
 		    "Unavailable <when above [-1] [-stats1]> <hidden from users>",
 		    "Remove [-5 stats] [in this city] <hidden from users> ",
-		    "Only available <for [Human player]> <hidden from users>",
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
 		    "[-5 Gold, -5 Production, -5 Food, -5 Culture, -5 Science] [in all cities] <for [999999] turns> <hidden from users>"]
@@ -53,7 +53,7 @@
 	   "uniques": [ "Comment [+5 faith in your cities]",
 		   "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
-		    "Only available <for [Human player]> <hidden from users>",
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
 		    "[+5 Faith] [in all cities] <hidden from users>",
@@ -65,7 +65,7 @@
 		    "Comment [Not Buildable for AIs + Destroyed if this city is captured]", 
 		    "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
-		    "Only available <for [Human player]> <hidden from users>",
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 		    "Instantly provides [1] [-Unhappiness] <hidden from users>", 
 		       "Instantly consumes [1] [+Unhappiness] <hidden from users> ",
 		    "Unavailable <when above [9] [-Unhappiness]> <hidden from users>",
@@ -84,7 +84,7 @@
 		   "Instantly consumes [1] [-Unhappiness] <hidden from users>",
 		    "Unavailable <when above [-1] [+Unhappiness]> <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users> ",
-		    "Only available <for [Human player]> <hidden from users> ",
+		    "Only available <for [Human player] Civilizations> <hidden from users> ",
 		    "Unbuildable <hidden from users> ",
 		    "Remove [100 to 0% happiness] [in this city] <hidden from users> ",
 		    "Limited to [1] per Civilization <hidden from users> ",
@@ -99,7 +99,7 @@
 		   "Instantly consumes [1] [-Food Carry] <hidden from users>",
 		    "Unavailable <when above [9] [+Food Carry]> <hidden from users>",
 		   "Remove [0 to 100% Food Carry] [in this city] <hidden from users> ",
-		    "Only available <for [Human player]> <hidden from users>",
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
 		    "[+10]% Food is carried over after population increases [in all cities] <for [999999] turns> <hidden from users>"]
@@ -112,7 +112,7 @@
 		   "Instantly consumes [1] [+Food Carry] <hidden from users>",
 		    "Unavailable <when above [-1] [-Food Carry]> <hidden from users>",
 		   "Remove [100 to 0% Food Carry] [in this city] <hidden from users> ",
-		    "Only available <for [Human player]> <hidden from users>",
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
 		    "[-10]% Food is carried over after population increases [in all cities] <for [999999] turns> <hidden from users>"]
@@ -125,7 +125,7 @@
 		   "Instantly consumes [1] [+Culture Cost Border] <hidden from users>",
 		    "Unavailable <when above [9] [-Culture Cost Border]> <hidden from users>",
 		   "Remove [0 to -100% Natural Border Cost] [in this city] <hidden from users> ",
-		    "Only available <for [Human player]> <hidden from users>",
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
 		    "[-10]% Culture cost of natural border growth [in all cities] <for [999999] turns> <hidden from users>"]
@@ -138,7 +138,7 @@
 		   "Instantly consumes [1] [-Culture Cost Border] <hidden from users>",
 		    "Unavailable <when above [-1] [+Culture Cost Border]> <hidden from users>",
 		   "Remove [-100 to 0% Natural Border Cost] [in this city] <hidden from users> ",
-		    "Only available <for [Human player]> <hidden from users>",
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
 		    "[+10]% Culture cost of natural border growth [in all cities] <for [999999] turns> <hidden from users>"]
@@ -147,7 +147,7 @@
 	   "name": "+9999999 golden age length",
 	   "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users> ",
 		    "Destroyed when the city is captured <hidden from users>",
-		    "Only available <for [Human player]> <hidden from users>",
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
 		    "[+9999999]% Golden Age length <hidden from users>"]
@@ -158,7 +158,7 @@
 		    "Limited to [1] per Civilization <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
 		    "Unbuildable <hidden from users>",
-		    "Only available <for [Human player]> <hidden from users>",
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 		    "[Military] units gain the [Slavery-888] promotion <if [Slavery-888] is constructed>" ]
 	},
 	{
@@ -167,7 +167,7 @@
 		    "Limited to [1] per Civilization <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
 		    "Unbuildable <hidden from users>",
-		    "Only available <for [Human player]> <hidden from users>",
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 		    "[Military] units gain the [Omnipotence] promotion <if [Immortal Units] is constructed>" ]
 	},
 	{
@@ -176,7 +176,7 @@
 		    "Limited to [1] per Civilization <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
 		    "Unbuildable <hidden from users>",
-		    "Only available <for [Human player]> <hidden from users>",
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 		    "[Military] units gain the [More Invulnerability] promotion <if [Invulnerable Units] is constructed>" ]
 	},
 	{
@@ -185,7 +185,7 @@
 		    "Limited to [1] per Civilization <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
 		    "Unbuildable <hidden from users>",
-		    "Only available <for [Human player]> <hidden from users>",
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 		    "[+99999999]% Strength for cities <when defending> <hidden from users>" ]
 	},
 	{
@@ -196,7 +196,7 @@
 		   "Instantly consumes [1] [+Maintenance] <hidden from users>",
 		    "Unavailable <when above [9] [-Maintenance]> <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
-		    "Only available <for [Human player]> <hidden from users>",
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
 		   "Remove [0 to -100% Maintenance] [in this city] <hidden from users> ",
@@ -213,7 +213,7 @@
 		          "Instantly provides [1] [+Maintenance] <hidden from users>", 
 		   "Instantly consumes [1] [-Maintenance] <hidden from users>",
 		    "Unavailable <when above [-1] [+Maintenance]> <hidden from users>",
-		    "Only available <for [Human player]> <hidden from users>",
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
 		   "Remove [-100 to 0% Maintenance] [in this city] <hidden from users> ",
@@ -226,7 +226,7 @@
 	   "name": "Buy everything",
 	   "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
-		    "Only available <for [Human player]> <hidden from users>",
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
 		    "May buy [All] buildings for [0] [Culture] [in all cities] <hidden from users>",
@@ -242,7 +242,7 @@
 	   "name": "100 supply",
 	   "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
-		    "Only available <for [Human player]> <hidden from users>",
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
 		    "[100] Unit Supply per city <hidden from users>"]
@@ -251,7 +251,7 @@
 	   "name": "+5 supply per 1 pops",
 	   "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
-		    "Only available <for [Human player]> <hidden from users>",
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
 		    "[5] Unit Supply per [1] population [in all cities] <hidden from users>"]
@@ -260,7 +260,7 @@
 	   "name": "1 Turn Construction",
 	   "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
-		    "Only available <for [Human player]> <hidden from users>",
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
 		    "[-99]% construction time for [All] improvements <hidden from users>"]
@@ -273,7 +273,7 @@
 		    "Unavailable <when above [99] [+Unit Production]> <hidden from users>",
 		    "Remove [0 to 10000% Unit Production] [in this city] <hidden from users> ",
 		    "Destroyed when the city is captured <hidden from users>",
-		    "Only available <for [Human player]> <hidden from users>",
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
 		    "[+100]% Production when constructing [All] units [in all cities] <for [999999] turns> <hidden from users>"]
@@ -286,7 +286,7 @@
 		    "Unavailable <when above [-1] [-Unit Production]> <hidden from users>",
 		    "Remove [10000 to 0% Unit Production] [in this city] <hidden from users> ",
 		    "Destroyed when the city is captured <hidden from users>",
-		    "Only available <for [Human player]> <hidden from users>",
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
 		    "[-100]% Production when constructing [All] units [in all cities] <for [999999] turns> <hidden from users>"]
@@ -299,7 +299,7 @@
 		   "Instantly consumes [1] [-Buildings Production] <hidden from users>",
 		    "Unavailable <when above [99] [+Buildings Production]> <hidden from users>",
 		   "Remove [0 to 10000% Buildings Production] [in this city] <hidden from users> ",
-		    "Only available <for [Human player]> <hidden from users>",
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
 		    "[+100]% Production when constructing [All] buildings [in all cities] <for [999999] turns> <hidden from users>"]
@@ -312,7 +312,7 @@
 		   "Instantly consumes [1] [+Buildings Production] <hidden from users>",
 		    "Unavailable <when above [-1] [-Buildings Production]> <hidden from users>",
 		   "Remove [10000 to 0% Buildings Production] [in this city] <hidden from users> ",
-		    "Only available <for [Human player]> <hidden from users>",
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
 		    "[-100]% Production when constructing [All] buildings [in all cities] <for [999999] turns> <hidden from users>"]
@@ -325,7 +325,7 @@
 		   "Instantly consumes [1] [-Wonders Production] <hidden from users>",
 		    "Unavailable <when above [99] [+Wonders Production]> <hidden from users>",
 		   "Remove [0 to 10000% Wonders Production] [in this city] <hidden from users> ",
-		    "Only available <for [Human player]> <hidden from users>",
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
 		    "[+100]% Production when constructing [All] wonders [in all cities] <for [999999] turns> <hidden from users>"]
@@ -338,7 +338,7 @@
 		   "Instantly consumes [1] [+Wonders Production] <hidden from users>",
 		    "Unavailable <when above [-1] [-Wonders Production]> <hidden from users>",
 		   "Remove [10000 to 0% Wonders Production] [in this city] <hidden from users> ",
-		    "Only available <for [Human player]> <hidden from users>",
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
 		    "[-100]% Production when constructing [All] wonders [in all cities] <for [999999] turns> <hidden from users>"]
@@ -347,7 +347,7 @@
 	   "name": "Unit Rewards Bonus except Faith",
 	   "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
-		    "Only available <for [Human player]> <hidden from users>",
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
 		    "Notified of new Barbarian encampments <hidden from users>", 
@@ -362,7 +362,7 @@
 	   "name": "Unit Rewards Bonus For Faith",
 	   "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
-		    "Only available <for [Human player]> <hidden from users>",
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
 		    "Earn [+100]% of killed [All] unit's [Strength] as [Faith] <hidden from users>",
