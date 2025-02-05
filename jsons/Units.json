@@ -7,7 +7,7 @@
             "[+200]% Strength bonus for [Military] units within [3] tiles",
 			"Limited to [1] per Civilization",
 			"All adjacent units heal [+100] HP when healing", "[+100] HP when healing",
-			"Only available <for [Human player]>", 
+			"Only available <for [Human player] Civilizations>", 
                         "Uncapturable"],
 		"movement": 5
 	         "cost": 0
@@ -22,7 +22,7 @@
 		 "Can build [Land] improvements on tiles",
 		 "Can build [Water] improvements on tiles",
 		 "[-100]% construction time for [All] improvements",
-		 "Only available <for [Human player]>", 
+		 "Only available <for [Human player] Civilizations>", 
 		 "Uncapturable"],
 	 "movement": 2
 	         "cost": 0
@@ -35,7 +35,7 @@
 		 "Can be purchased for [0] [Gold] [in this city]",
 		 "[Invulnerable Trooper] units gain the [Slavery-888] promotion",
 		 "Unbuildable",
-		 "Only available <for [Human player]>"],
+		 "Only available <for [Human player] Civilizations>"],
 	 "strength": 4
 	 "movement": 10
 	         "cost": 0
@@ -49,7 +49,7 @@
 		 "Can be purchased for [0] [Gold] [in this city]",
 		 "Unbuildable",
 		 "Uncapturable",
-		 "Only available <for [Human player]>"],
+		 "Only available <for [Human player]> Civilizations"],
 	 "movement": 2
 	 "cost": 0
 	 "hurryCostModifier": 0
