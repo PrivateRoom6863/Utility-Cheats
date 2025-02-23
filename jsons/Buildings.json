@@ -223,20 +223,28 @@
 		    "[+10]% maintenance on road & railroads <for [999999] turns> <hidden from users>"]
 	},
 	{
-	   "name": "Buy Milita+Buildings+Wonders For free",
+	   "name": "Buy Buildings",
 	   "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
 		    "Only available <for [Human player] Civilizations> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
 		    "May buy [All] buildings for [0] [Culture] [in all cities] <hidden from users>",
-		    "May buy [Military] units for [0] [Culture] [in all cities] <hidden from users>",
-		    "May buy [All] buildings for [0] [Gold] [in all cities] <hidden from users>",
-		    "May buy [Military] units for [0] [Gold] [in all cities] <hidden from users>",
+		    "May buy [All] buildings for [25] [Gold] [in all cities] <hidden from users>",
 		    "May buy [All] buildings for [0] [Faith] [in all cities] <hidden from users>",
+	            "[-75]% Gold cost of acquiring tiles [in all cities] <hidden from users>"]
+	},
+	{
+	   "name": "Buy Militaries",
+	   "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
+		    "Destroyed when the city is captured <hidden from users>",
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
+		    "Unbuildable <hidden from users>",
+		    "Limited to [1] per Civilization <hidden from users>",
+		    "May buy [Military] units for [0] [Culture] [in all cities] <hidden from users>",
+		    "May buy [Military] units for [25] [Gold] [in all cities] <hidden from users>",
 		    "May buy [Military] units for [0] [Faith] [in all cities] <hidden from users>",
-		    "[-100]% Gold cost of upgrading <for [Military] units> <hidden from users>",
-	            "[-100]% Gold cost of acquiring tiles [in all cities] <hidden from users>"]
+		    "[-75]% Gold cost of upgrading <for [Military] units> <hidden from users>"]
 	},
 	{
 	   "name": "100 supply",
