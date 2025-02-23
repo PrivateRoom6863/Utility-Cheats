@@ -12,7 +12,6 @@
         "[10] additional attacks per turn", 
         "Can move after attacking", 
         "Heals [99] damage if it kills a unit",
-	     "May capture killed [All] units",
         "[+1] Range",
         "[+99] HP when healing", 
         "Ignores terrain cost",
