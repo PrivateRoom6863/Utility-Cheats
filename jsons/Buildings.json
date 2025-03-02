@@ -170,6 +170,28 @@
 		    "Only available <for [Human player] Civilizations> <hidden from users>",
 		    "[Military] units gain the [Omnipotence] promotion <if [Immortal Units] is constructed>" ]
 	},
+	{ 
+     "name": "Omnipotence",
+     "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
+	     "Limited to [1] per Civilization <hidden from users>",
+	     "Destroyed when the city is captured <hidden from users>",
+	     "Only available <for [Human player] Civilizations> <hidden from users>",
+	     "Unbuildable <hidden from users>",
+	     "All adjacent units heal [+99] HP when healing",     
+        "[+85]% XP gained from combat", 
+        "Ranged attacks may be performed over obstacles",
+        "Can see invisible [All] units <with [999]% chance>", 
+        "No damage penalty for wounded units", 
+        "[+99999999]% Strength", 
+        "Uncapturable", 
+        "[10] additional attacks per turn", 
+        "Can move after attacking", 
+        "Heals [99] damage if it kills a unit",
+        "[+1] Range",
+        "[+99] HP when healing", 
+        "Ignores terrain cost",
+        "Unit will heal every turn, even if it performs an action"]
+        },
 	{
 	   "name": "Invulnerable Units",
 	   "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
