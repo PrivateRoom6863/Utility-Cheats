@@ -14,7 +14,7 @@
         "hurryCostModifier": 0,
         "maintenance": 0,
         "uniques": [
-            "Can only be built [in capital] <hidden from users>",
+            "Can only be built <in [in capital] cities> <hidden from users>",
 		"Destroyed when the city is captured <hidden from users>",
             "Only available <in cities without a [CheatActivated]> <hidden from users>"]
     },
@@ -24,7 +24,7 @@
         "hurryCostModifier": 0,
         "maintenance": 0,
         "uniques": [
-            "Can only be built [in capital] <hidden from users>",
+            "Can only be built <in [in capital] cities> <hidden from users>",
             "Only available <in cities with a [CheatActivator]> <hidden from users>",
             "Destroyed when the city is captured <hidden from users>"]
     },
@@ -34,7 +34,7 @@
 	"hurryCostModifier": 0,
 	"maintenance": 0,
 	"uniques": [
-		"Can only be built [in capital] <hidden from users>",
+		"Can only be built <in [in capital] cities> <hidden from users>",
             "Only available <in cities without a [CheatActivator]> <hidden from users>",
 		"Only available <in cities with a [CheatActivated]> <hidden from users>",
             "Destroyed when the city is captured <hidden from users>"]
@@ -98,7 +98,7 @@
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
 		    "[+5 Faith] [in all cities] <hidden from users>",
-	            "Hidden when religion is disabled"]
+	            "Only available <when religion is enabled>"]
 	},
 	{
 	   "name": "0 to 100% happiness",
@@ -466,7 +466,7 @@
 		    "Limited to [1] per Civilization <hidden from users>",
 		    "Earn [+100]% of killed [All] unit's [Strength] as [Faith] <hidden from users>",
 		    "Earn [+100]% of the damage done to [All] units as [Faith] <hidden from users>",
-		    "Hidden when religion is disabled"]
+		    "Only available <when religion is enabled>"]
 	},
 	{   "name": "Build special units",
 		"cost": 0,
