@@ -16,6 +16,7 @@
         "uniques": [
             "Can only be built <in [in capital] cities> <hidden from users>",
 		"Destroyed when the city is captured <hidden from users>",
+		"Only available <in cities without a [cheated]> <hidden from users>",
             "Only available <in cities without a [CheatActivated]> <hidden from users>"]
     },
 	{
@@ -95,7 +96,6 @@
 		   "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
 		    "Only available <for [Human player] Civilizations> <hidden from users>",
-		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
 		    "[+5 Faith] [in all cities] <hidden from users>",
 	            "Only available <when religion is enabled>"]
