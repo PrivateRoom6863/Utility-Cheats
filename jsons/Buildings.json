@@ -14,9 +14,9 @@
         "hurryCostModifier": 0,
         "maintenance": 0,
         "uniques": [
-            "Can only be built [in capital]",
-		"Destroyed when the city is captured",
-            "Only available <in cities without a [CheatActivated]>"]
+            "Can only be built [in capital] <hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
+            "Only available <in cities without a [CheatActivated]> <hidden from users>"]
     },
 	{
         "name": "CheatActivated",
@@ -24,9 +24,9 @@
         "hurryCostModifier": 0,
         "maintenance": 0,
         "uniques": [
-            "Can only be built [in capital]",
-            "Only available <in cities with a [CheatActivator]>",
-            "Destroyed when the city is captured"]
+            "Can only be built [in capital] <hidden from users>",
+            "Only available <in cities with a [CheatActivator]> <hidden from users>",
+            "Destroyed when the city is captured <hidden from users>"]
     },
 	{
 	 "name": "cheated",
@@ -34,12 +34,15 @@
 	"hurryCostModifier": 0,
 	"maintenance": 0,
 	"uniques": [
-		"Can only be built [in capital]",
-            "Only available <in cities without a [CheatActivator]>",
-		"Only available <in cities with a [CheatActivated]>",
-            "Destroyed when the city is captured",
+		"Can only be built [in capital] <hidden from users>",
+            "Only available <in cities without a [CheatActivator]> <hidden from users>",
+		"Only available <in cities with a [CheatActivated]> <hidden from users>",
+            "Destroyed when the city is captured <hidden from users>",
 	{
 	   "name": "Starter Pack",
+		"cost": 0,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
 	   "uniques": [ "Comment [You Gain 2 units in total]",
 		   "Only available <in cities with a [cheated]> <hidden from users",
 		   "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
@@ -51,6 +54,9 @@
 	},
 	{
 	   "name": "+5 stats",
+		"cost": 0,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
 	   "uniques": [ "Comment [+5 every stats except faith in your cities]",
 		   "Only available <in cities with a [cheated]> <hidden from users",
 		    "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
@@ -65,6 +71,9 @@
 	},
 	{
 	   "name": "-5 stats",
+		"cost": 0,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
 	   "uniques": [ "Comment [-5 every stats except faith in your cities]",
 		   "Only available <in cities with a [cheated]> <hidden from users",
 		    "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
@@ -78,6 +87,9 @@
 	},
 	{
 	   "name": "+5 faith",
+		"cost": 0,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
 	   "uniques": [ "Comment [+5 faith in your cities]",
 		   "Only available <in cities with a [cheated]> <hidden from users",
 		   "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
@@ -90,6 +102,9 @@
 	},
 	{
 	   "name": "0 to 100% happiness",
+		"cost": 0,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
 	   "uniques": [ "Comment [More -10 unhappiness everytime u buy it]",
 		   "Only available <in cities with a [cheated]> <hidden from users",
 		    "Comment [Not Buildable for AIs + Destroyed if this city is captured]", 
@@ -105,6 +120,9 @@
 	},
 	{
 	   "name": "100 to 0% happiness",
+		"cost": 0,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
 	   "uniques": [ "Comment [More +10 unhappiness everytime u buy it]",
 		   "Only available <in cities with a [cheated]> <hidden from users",
 		   "Comment [Not Buildable for AIs + Destroyed if this city is captured]", 
@@ -120,6 +138,9 @@
 	},
 	{
 	   "name": "0 to 100% Food Carry",
+		"cost": 0,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
 	   "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		   "Only available <in cities with a [cheated]> <hidden from users",
 		    "Destroyed when the city is captured <hidden from users>",
@@ -132,6 +153,9 @@
 	},
 	{
 	   "name": "100 to 0% Food Carry",
+		"cost": 0,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
 	   "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		   "Only available <in cities with a [cheated]> <hidden from users",
 		    "Destroyed when the city is captured <hidden from users>",
@@ -144,6 +168,9 @@
 	},
 	{
 	   "name": "0 to -100% Natural Border Cost",
+		"cost": 0,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
 	   "uniques": [ "Only available <in cities with a [cheated]> <hidden from users",
 		   "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
@@ -156,6 +183,9 @@
 	},
 	{
 	   "name": "-100 to 0% Natural Border Cost",
+		"cost": 0,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
 	   "uniques": [ "Only available <in cities with a [cheated]> <hidden from users",
 		   "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
@@ -168,6 +198,9 @@
 	},
 	{
 	   "name": "+9999999 golden age length",
+		"cost": 0,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
 	   "uniques": [ "Only available <in cities with a [cheated]> <hidden from users",
 		   "Can be purchased for [0] [Gold] [in this city] <hidden from users> ",
 		    "Destroyed when the city is captured <hidden from users>",
@@ -176,6 +209,9 @@
 	},
 	{
 	   "name": "Slavery-888",
+		"cost": 0,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
 	   "uniques": [ "Only available <in cities with a [cheated]> <hidden from users",
 		   "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
@@ -184,6 +220,9 @@
 	},
 	{
 	   "name": "Immortal Units",
+		"cost": 0,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
 	   "uniques": [ "Only available <in cities with a [cheated]> <hidden from users",
 		   "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
@@ -192,6 +231,9 @@
 	},
 	{
 	   "name": "Invulnerable Units",
+		"cost": 0,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
 	   "uniques": [ "Only available <in cities with a [cheated]> <hidden from users",
 		   "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
@@ -200,6 +242,9 @@
 	},
 	{
 	   "name": "Indestructible Cities",
+		"cost": 0,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
 	   "uniques": [ "Only available <in cities with a [cheated]> <hidden from users",
 		   "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
@@ -208,6 +253,9 @@
 	},
 	{
 	   "name": "0 to -100% Maintenance",
+		"cost": 0,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
 	   "uniques": [ "Only available <in cities with a [cheated]> <hidden from users",
 		    "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		          "Instantly provides [1] [-Maintenance] <hidden from users>", 
@@ -223,6 +271,9 @@
 	},
 	{
 	   "name": "-100 to 0% Maintenance",
+		"cost": 0,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
 	   "uniques": [ "Only available <in cities with a [cheated]> <hidden from users",
 		    "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
@@ -238,6 +289,9 @@
 	},
 	{
 	   "name": "Buy Buildings",
+		"cost": 0,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
 	   "uniques": [ "Only available <in cities with a [cheated]> <hidden from users",
 		   "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
@@ -249,6 +303,9 @@
 	},
 	{
 	   "name": "Buy Militaries",
+		"cost": 0,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
 	   "uniques": [ "Only available <in cities with a [cheated]> <hidden from users",
 		   "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",		    
@@ -260,6 +317,9 @@
 	},
 	{
 	   "name": "100 supply",
+		"cost": 0,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
 	   "uniques": [ "Only available <in cities with a [cheated]> <hidden from users",
 		   "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
@@ -268,6 +328,9 @@
 	},
 	{
 	   "name": "+5 supply per 1 pops",
+		"cost": 0,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
 	   "uniques": [ "Only available <in cities with a [cheated]> <hidden from users",
 		   "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
@@ -276,6 +339,9 @@
 	},
 	{
 	   "name": "1 Turn Construction",
+		"cost": 0,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
 	   "uniques": [ "Only available <in cities with a [cheated]> <hidden from users",
 		   "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
@@ -284,6 +350,9 @@
 	},
 	{
 	   "name": "0 to 10000% Unit Production",
+		"cost": 0,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
 	   "uniques": [ "Only available <in cities with a [cheated]> <hidden from users",
 		   "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		          "Instantly provides [1] [+Unit Production] <hidden from users>", 
@@ -296,6 +365,9 @@
 	},
 	{
 	   "name": "10000 to 0% Unit Production",
+		"cost": 0,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
 	   "uniques": [ "Only available <in cities with a [cheated]> <hidden from users",
 		   "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		          "Instantly provides [1] [-Unit Production] <hidden from users>",
@@ -308,6 +380,9 @@
 	},
 	{
 	   "name": "0 to 10000% Buildings Production",
+		"cost": 0,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
 	   "uniques": [ "Only available <in cities with a [cheated]> <hidden from users",
 		   "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
@@ -320,6 +395,9 @@
 	},
 	{
 	   "name": "10000 to 0% Buildings Production",
+		"cost": 0,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
 	   "uniques": [ "Only available <in cities with a [cheated]> <hidden from users",
 		   "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
@@ -332,6 +410,9 @@
 	},
 	{
 	   "name": "0 to 10000% Wonders Production",
+		"cost": 0,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
 	   "uniques": [ "Only available <in cities with a [cheated]> <hidden from users",
 		   "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
@@ -344,6 +425,9 @@
 	},
 	{
 	   "name": "10000 to 0% Wonders Production",
+		"cost": 0,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
 	   "uniques": [ "Only available <in cities with a [cheated]> <hidden from users",
 		   "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
@@ -356,6 +440,9 @@
 	},
 	{
 	   "name": "Unit Rewards Bonus except Faith",
+		"cost": 0,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
 	   "uniques": [ "Only available <in cities with a [cheated]> <hidden from users",
 		   "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
@@ -370,6 +457,9 @@
 	},
 	{
 	   "name": "Unit Rewards Bonus For Faith",
+		"cost": 0,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
 	   "uniques": [ "Only available <in cities with a [cheated]> <hidden from users",
 		   "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
