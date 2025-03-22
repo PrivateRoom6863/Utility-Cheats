@@ -476,6 +476,31 @@
 		   "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>"]
+	},
+	{   "name": "C-S cheat",
+		"cost": 0,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
+	   "uniques": [ "Only available <in cities with a [cheated]> <hidden from users>",
+		   "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
+"City-State territory always counts as friendly territory <hidden from users>",
+"[75]% [Food] from City-States <hidden from users>",
+"[75]% [Production] from City-States <hidden from users>",
+"[75]% [Gold] from City-States <hidden from users>",
+"[75]% [Science] from City-States <hidden from users>",
+"[75]% [Culture] from City-States <hidden from users>",
+"Allied City-States provide [Food] equal to [75]% of what they produce for themselves <hidden from users>",
+"Allied City-States provide [Production] equal to [75]% of what they produce for themselves <hidden from users>",
+"Allied City-States provide [Gold] equal to [75]% of what they produce for themselves <hidden from users>",
+"Allied City-States provide [Science] equal to [75]% of what they produce for themselves <hidden from users>",
+"Allied City-States provide [Culture] equal to [75]% of what they produce for themselves <hidden from users>",
+"[-999]% City-State Influence degradation <hidden from users>",
+"Resting point for Influence with City-States is increased by [99999] <hidden from users>",
+"Influence of all other civilizations with all city-states degrades [999]% faster <hidden from users>",
+"[100]% Happiness from luxury resources gifted by City-States <hidden from users>",
+"[100]% resources gifted by City-States <hidden from users>",
+		    "Destroyed when the city is captured <hidden from users>",
+		    "Limited to [1] per Civilization <hidden from users>"]
 	}
 		
 ]
