@@ -1,7 +1,7 @@
 
 [
 	{
-		"name": "VersionCheck"
+		"name": "1ReadMe"
 		"uniques": [ "Comment [All of these buildings are Unbuildable for AIs so no need to worry + destroyed if city is captured]",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 			"Only available <for [Human player] Civilizations> <hidden from users>",
@@ -495,7 +495,7 @@
 "Allied City-States provide [Science] equal to [75]% of what they produce for themselves <hidden from users>",
 "Allied City-States provide [Culture] equal to [75]% of what they produce for themselves <hidden from users>",
 "[-999]% City-State Influence degradation <hidden from users>",
-"Gain [999] Influence with a [All] gift to a City-State",
+"Gain [999] Influence with a [All] gift to a City-State <hidden from users>",
 "Resting point for Influence with City-States is increased by [99999] <hidden from users>",
 "Influence of all other civilizations with all city-states degrades [999]% faster <hidden from users>",
 "[100]% Happiness from luxury resources gifted by City-States <hidden from users>",
