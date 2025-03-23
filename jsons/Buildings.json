@@ -1,7 +1,7 @@
 
 [
 	{
-		"name": "1ReadMe"
+		"name": "VersionCheck"
 		"uniques": [ "Comment [All of these buildings are Unbuildable for AIs so no need to worry + destroyed if city is captured]",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 			"Only available <for [Human player] Civilizations> <hidden from users>",
