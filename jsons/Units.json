@@ -31,8 +31,8 @@
 		 "Can be purchased for [0] [Gold] [in this city]",
 		 "[Invulnerable Trooper] units gain the [More Invulnerability] promotion",
 	 "Uncapturable"]
-	 "strength": 4
-	 "movement": 10
+	 "strength": 50
+	 "movement": 2
 	         "cost": 0
 	         "hurryCostModifier": 0
  },
