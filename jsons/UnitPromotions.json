@@ -35,6 +35,10 @@
       "uniques": [
 		 "May capture killed [All] units <with [999]% chance>",
 		 "Uncapturable"]
-   }
+   },
+   {
+      "name": "Knowledgeable"
+	   "uniques": ["[666]% XP gained from combat"]
+   {
 
 ]
