@@ -128,7 +128,7 @@
 	"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		"Can only be built <in [in capital] cities> <hidden from users>",
             "Only available <in cities without a [CheatActivator]> <hidden from users>",
-		"Only available <in cities with a [CheatActivated]> <hidden from users",
+		"Only available <in cities with a [CheatActivated]> <hidden from users>",
             "Destroyed when the city is captured <hidden from users>"]
 	},
 	{
