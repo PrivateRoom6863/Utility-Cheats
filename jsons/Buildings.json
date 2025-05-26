@@ -36,7 +36,6 @@
             "Remove [xyzplan] [in this city] <hidden from users>",
             "Remove [iS] [in this city] <hidden from users>",
             "Remove [Real] [in this city] <hidden from users>",
-		"Only available <in cities without a [Oknice911]> <hidden from users>",
             "Destroyed when the city is captured <hidden from users>"]
     },
     {
