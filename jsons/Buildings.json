@@ -17,6 +17,7 @@
             "Can only be built <in [in capital] cities> <hidden from users>",
 		"Destroyed when the city is captured <hidden from users>",
 		"Only available <in cities without a [cheated]>",
+		"Only available <in cities without a [Password]>",
             "Only available <in cities without a [CheatActivated]>"]
     },
 	{
