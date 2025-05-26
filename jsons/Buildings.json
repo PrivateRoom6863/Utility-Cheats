@@ -35,6 +35,18 @@
             "Remove [xyzplan] [in this city] <hidden from users>",
             "Remove [iS] [in this city] <hidden from users>",
             "Remove [Real] [in this city] <hidden from users>",
+		"Only available <in cities without a [Oknice911]> <hidden from users>",
+            "Destroyed when the city is captured <hidden from users>"]
+    },
+    {
+        "name": "Oknice911",
+        "cost": 0,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
+        "uniques": [
+        "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
+            "Can only be built <in [in capital] cities> <hidden from users>",
+            "Automatically built in all cities where it is buildable <hidden from users>",
             "Destroyed when the city is captured <hidden from users>"]
     },
     {
@@ -129,6 +141,7 @@
 		"Can only be built <in [in capital] cities> <hidden from users>",
             "Only available <in cities without a [CheatActivator]> <hidden from users>",
 		"Only available <in cities with a [CheatActivated]> <hidden from users>",
+		"Remove [CheatActivated] [in this city] <hidden from users>",
             "Destroyed when the city is captured <hidden from users>"]
 	},
 	{
