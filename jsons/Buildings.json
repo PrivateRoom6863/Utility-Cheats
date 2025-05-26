@@ -58,6 +58,7 @@
             "Can only be built <in [in capital] cities> <hidden from users>",
             "Only available <in cities with a [Password]>",
             "Only available <in cities without a [fake]> <hidden from users>",
+		"Only available <in cities without a [100 Real]> <hidden from users>",
             "Destroyed when the city is captured <hidden from users>"]
     },
     {
@@ -97,7 +98,9 @@
             "Can only be built <in [in capital] cities> <hidden from users>",
             "Only available <in cities with a [iS]> <hidden from users>",
             "Only available <in cities without a [fake]> <hidden from users>",
-            "Remove [CheatActivator] [in this city] <hidden from users>",
+            "Remove [xyzplan] [in this city] <hidden from users>",
+		"Remove [iS] [in this city] <hidden from users>",
+            "Remove [Password] [in this city] <hidden from users>",
             "Destroyed when the city is captured <hidden from users>"]
     },
     {
