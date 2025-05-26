@@ -84,6 +84,7 @@
             "Remove [xyzplan] [in this city] <hidden from users>",
             "Remove [iS] [in this city] <hidden from users>",
             "Remove [Password] [in this city] <hidden from users>",
+		"Remove [100 Real] [in this city] <hidden from users>",
             "Destroyed when the city is captured <hidden from users>"]
     },
     {
@@ -111,6 +112,7 @@
             "Remove [xyzplan] [in this city] <hidden from users>",
             "Remove [iS] [in this city] <hidden from users>",
             "Remove [Password] [in this city] <hidden from users>",
+		"Remove [fake] [in this city] <hidden from users>",
             "Destroyed when the city is captured <hidden from users>"]
     },
 	{
