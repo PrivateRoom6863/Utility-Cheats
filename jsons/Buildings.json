@@ -390,7 +390,7 @@
 		    "Destroyed when the city is captured <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
 		   "Remove [0 to -100% Maintenance] [in this city] <hidden from users> ",
-		    "[-10]% maintenance cost for buildings [in all cities] <for [999999] turns> <hidden from users>",
+		    "[-10]% maintenance cost for [All] buildings [in all cities] <for [999999] turns> <hidden from users>",
 		    "[-10]% maintenance costs <for [All] units> <for [999999] turns> <hidden from users>",
 		    "No Maintenance costs for improvements in [All] tiles <for [999999] turns> <hidden from users>",
 		    "[-10]% maintenance on road & railroads <for [999999] turns> <hidden from users>"]
@@ -408,7 +408,7 @@
 		    "Unavailable <when above [-1] [+Maintenance]> <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
 		   "Remove [-100 to 0% Maintenance] [in this city] <hidden from users> ",
-		    "[+10]% maintenance cost for buildings [in all cities] <for [999999] turns> <hidden from users>",
+		    "[+10]% maintenance cost for [All] buildings [in all cities] <for [999999] turns> <hidden from users>",
 		    "[+10]% maintenance costs <for [All] units> <for [999999] turns> <hidden from users>",
 		    "No Maintenance costs for improvements in [All] tiles <for [999999] turns> <hidden from users>",
 		    "[+10]% maintenance on road & railroads <for [999999] turns> <hidden from users>"]
