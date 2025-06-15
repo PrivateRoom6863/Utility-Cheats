@@ -16,8 +16,8 @@
         "Unit will heal every turn, even if it performs an action"]
    },
    { 
-     "name": "Blastbility",
-     "uniques": ["Blast radius [+5] <for [Military] units>"]
+     "name": "DTIWA",
+     "uniques": ["Destroys tile improvements when attacking"]
    },
    {
      "name": "More Invulnerability",
