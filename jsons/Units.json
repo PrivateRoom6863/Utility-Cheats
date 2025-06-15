@@ -33,6 +33,9 @@
 		 "May found a religion",
 		 "Can Spread Religion",
 		 "Removes other religions when spreading religion",
+		 "May enter foreign tiles without open borders",
+		 "Only available <when religion is enabled>",
+		 "Takes your religion over the one in their birth city",
 		 "Uncapturable"],
 	 "movement": 2
 	         "cost": 0
