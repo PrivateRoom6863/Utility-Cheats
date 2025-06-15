@@ -323,6 +323,17 @@
 		    "[Military] units gain the [Slavery-888] promotion <if [Slavery-888] is constructed>" ]
 	},
 	{
+	   "name": "Blastbility",
+		"cost": 0,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
+	   "uniques": [ "Only available <in cities with a [cheated]> <hidden from users>",
+		   "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
+		    "Limited to [1] per Civilization <hidden from users>",
+		    "Destroyed when the city is captured <hidden from users>",
+		    "[Military] units gain the [Blastbility] promotion <if [Blastbility] is constructed>" ]
+	},
+	{
 	   "name": "Immortal Units",
 		"cost": 0,
         "hurryCostModifier": 0,
