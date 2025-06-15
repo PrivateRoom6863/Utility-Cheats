@@ -323,7 +323,7 @@
 		    "[Military] units gain the [Slavery-888] promotion <if [Slavery-888] is constructed>" ]
 	},
 	{
-	   "name": "Blastbility",
+	   "name": "DTIWA",
 		"cost": 0,
         "hurryCostModifier": 0,
         "maintenance": 0,
@@ -331,7 +331,7 @@
 		   "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
-		    "[Military] units gain the [Blastbility] promotion <if [Blastbility] is constructed>" ]
+		    "[Military] units gain the [DTIWA] promotion <if [DTIWA] is constructed>" ]
 	},
 	{
 	   "name": "Immortal Units",
