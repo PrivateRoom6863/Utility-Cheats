@@ -323,7 +323,7 @@
 		    "[Military] units gain the [Slavery-888] promotion <if [Slavery-888] is constructed>" ]
 	},
 	{
-	   "name": "DTIWA",
+	   "name": "Pillage-cheat",
 		"cost": 0,
         "hurryCostModifier": 0,
         "maintenance": 0,
@@ -331,7 +331,7 @@
 		   "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
-		    "[Military] units gain the [DTIWA] promotion <if [DTIWA] is constructed>" ]
+		    "[Military] units gain the [Pillage-cheat] promotion <if [Pillage-cheat] is constructed>" ]
 	},
 	{
 	   "name": "Immortal Units",
