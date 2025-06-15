@@ -28,7 +28,11 @@
 	  "name": "Prophet",
 	 "unitType": "Class S Civilian",
 	 "uniques": [ "Only available <in cities with a [Build special units]> <hidden from users>",
-	         ",
+	         "Religious Unit",
+		 "May enhance a religion",
+		 "May found a religion",
+		 "Can Spread Religion",
+		 "Removes other religions when spreading religion",
 		 "Uncapturable"],
 	 "movement": 2
 	         "cost": 0
