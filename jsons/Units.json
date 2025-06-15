@@ -25,6 +25,16 @@
 	         "hurryCostModifier": 0
  },
  {
+	  "name": "Prophet",
+	 "unitType": "Class S Civilian",
+	 "uniques": [ "Only available <in cities with a [Build special units]> <hidden from users>",
+	         ",
+		 "Uncapturable"],
+	 "movement": 2
+	         "cost": 0
+	         "hurryCostModifier": 0
+ },
+ {
 	"name": "Invulnerable Trooper",
 	 "unitType": "Class S Trooper",
 	 "uniques": [ "Only available <in cities with a [Build special units]> <hidden from users>",
