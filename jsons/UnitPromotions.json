@@ -15,6 +15,10 @@
         "Ignores terrain cost",
         "Unit will heal every turn, even if it performs an action"]
    },
+   { 
+     "name": "Blastbility",
+     "uniques": ["Blast radius [+5] <for [Military] units>"]
+   },
    {
      "name": "More Invulnerability",
      "uniques": ["All adjacent units heal [+100] HP when healing",
