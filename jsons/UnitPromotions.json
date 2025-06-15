@@ -16,8 +16,10 @@
         "Unit will heal every turn, even if it performs an action"]
    },
    { 
-     "name": "DTIWA",
-     "uniques": ["Destroys tile improvements when attacking"]
+     "name": "Pillage-cheat",
+     "uniques": ["[+100]% Health from pillaging tiles",
+     "No movement cost to pillage",
+     "[+100]% Yield from pillaging tiles"]
    },
    {
      "name": "More Invulnerability",
